@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RptDataSource xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="DS1">
+  <ConnectionProperties>
+    <Extension>SQL</Extension>
+    <ConnectString>Data Source=.\SQLEXPRESS;Initial Catalog="Examination System"</ConnectString>
+  </ConnectionProperties>
+  <DataSourceID>997c101b-82fe-4cec-9ef2-607265442173</DataSourceID>
+</RptDataSource>

@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\asus\\source\\repos\\DotNet Study\\C#\\ITI\\Examination System Reports\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2761D95F-6B60-4D76-A4C5-034D23B4FF25}|Examination System Reports\\Examination System Reports.rptproj|C:\\Users\\asus\\source\\repos\\DotNet Study\\C#\\ITI\\Examination System Reports\\Examination System Reports\\Report1.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}",
+      "RelativeMoniker": "D:0:0:{2761D95F-6B60-4D76-A4C5-034D23B4FF25}|Examination System Reports\\Examination System Reports.rptproj|solutionrelative:Examination System Reports\\Report1.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2761D95F-6B60-4D76-A4C5-034D23B4FF25}|Examination System Reports\\Examination System Reports.rptproj|C:\\Users\\asus\\source\\repos\\DotNet Study\\C#\\ITI\\Examination System Reports\\Examination System Reports\\Report6.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}",
+      "RelativeMoniker": "D:0:0:{2761D95F-6B60-4D76-A4C5-034D23B4FF25}|Examination System Reports\\Examination System Reports.rptproj|solutionrelative:Examination System Reports\\Report6.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2761D95F-6B60-4D76-A4C5-034D23B4FF25}|Examination System Reports\\Examination System Reports.rptproj|C:\\Users\\asus\\source\\repos\\DotNet Study\\C#\\ITI\\Examination System Reports\\Examination System Reports\\Report5.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}",
+      "RelativeMoniker": "D:0:0:{2761D95F-6B60-4D76-A4C5-034D23B4FF25}|Examination System Reports\\Examination System Reports.rptproj|solutionrelative:Examination System Reports\\Report5.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2761D95F-6B60-4D76-A4C5-034D23B4FF25}|Examination System Reports\\Examination System Reports.rptproj|C:\\Users\\asus\\source\\repos\\DotNet Study\\C#\\ITI\\Examination System Reports\\Examination System Reports\\Report4.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}",
+      "RelativeMoniker": "D:0:0:{2761D95F-6B60-4D76-A4C5-034D23B4FF25}|Examination System Reports\\Examination System Reports.rptproj|solutionrelative:Examination System Reports\\Report4.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2761D95F-6B60-4D76-A4C5-034D23B4FF25}|Examination System Reports\\Examination System Reports.rptproj|C:\\Users\\asus\\source\\repos\\DotNet Study\\C#\\ITI\\Examination System Reports\\Examination System Reports\\Report2.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}",
+      "RelativeMoniker": "D:0:0:{2761D95F-6B60-4D76-A4C5-034D23B4FF25}|Examination System Reports\\Examination System Reports.rptproj|solutionrelative:Examination System Reports\\Report2.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2761D95F-6B60-4D76-A4C5-034D23B4FF25}|Examination System Reports\\Examination System Reports.rptproj|C:\\Users\\asus\\source\\repos\\DotNet Study\\C#\\ITI\\Examination System Reports\\Examination System Reports\\Report3.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}",
+      "RelativeMoniker": "D:0:0:{2761D95F-6B60-4D76-A4C5-034D23B4FF25}|Examination System Reports\\Examination System Reports.rptproj|solutionrelative:Examination System Reports\\Report3.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Report6.rdl [Design]",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\DotNet Study\\C#\\ITI\\Examination System Reports\\Examination System Reports\\Report6.rdl",
+              "RelativeDocumentMoniker": "Examination System Reports\\Report6.rdl",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\DotNet Study\\C#\\ITI\\Examination System Reports\\Examination System Reports\\Report6.rdl [Design]",
+              "RelativeToolTip": "Examination System Reports\\Report6.rdl [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-30T13:29:16.345Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Report5.rdl [Design]",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\DotNet Study\\C#\\ITI\\Examination System Reports\\Examination System Reports\\Report5.rdl",
+              "RelativeDocumentMoniker": "Examination System Reports\\Report5.rdl",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\DotNet Study\\C#\\ITI\\Examination System Reports\\Examination System Reports\\Report5.rdl [Design]",
+              "RelativeToolTip": "Examination System Reports\\Report5.rdl [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-30T13:27:41.85Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Report4.rdl [Design]",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\DotNet Study\\C#\\ITI\\Examination System Reports\\Examination System Reports\\Report4.rdl",
+              "RelativeDocumentMoniker": "Examination System Reports\\Report4.rdl",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\DotNet Study\\C#\\ITI\\Examination System Reports\\Examination System Reports\\Report4.rdl [Design]",
+              "RelativeToolTip": "Examination System Reports\\Report4.rdl [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-30T13:24:09.22Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Report2.rdl [Design]",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\DotNet Study\\C#\\ITI\\Examination System Reports\\Examination System Reports\\Report2.rdl",
+              "RelativeDocumentMoniker": "Examination System Reports\\Report2.rdl",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\DotNet Study\\C#\\ITI\\Examination System Reports\\Examination System Reports\\Report2.rdl [Design]",
+              "RelativeToolTip": "Examination System Reports\\Report2.rdl [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-30T13:22:41.177Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Report1.rdl [Design]",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\DotNet Study\\C#\\ITI\\Examination System Reports\\Examination System Reports\\Report1.rdl",
+              "RelativeDocumentMoniker": "Examination System Reports\\Report1.rdl",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\DotNet Study\\C#\\ITI\\Examination System Reports\\Examination System Reports\\Report1.rdl [Design]",
+              "RelativeToolTip": "Examination System Reports\\Report1.rdl [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-30T13:14:08.294Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Report3.rdl [Design]",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\DotNet Study\\C#\\ITI\\Examination System Reports\\Examination System Reports\\Report3.rdl",
+              "RelativeDocumentMoniker": "Examination System Reports\\Report3.rdl",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\DotNet Study\\C#\\ITI\\Examination System Reports\\Examination System Reports\\Report3.rdl [Design]",
+              "RelativeToolTip": "Examination System Reports\\Report3.rdl [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-30T00:17:14.624Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
